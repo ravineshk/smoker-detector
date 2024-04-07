@@ -15,7 +15,7 @@ This model can predit whether the person in front of the camera is smoking or no
 
 https://github.com/ravineshk/smoker-detector/assets/72332421/e886a5ee-bb0c-4bea-b03a-0b40942fba76
 
-![Live Demo]([https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Demo.gif](https://github.com/ravineshk/smoker-detector/assets/72332421/e886a5ee-bb0c-4bea-b03a-0b40942fba76))
+![Live Demo]([(https://github.com/ravineshk/smoker-detector/assets/72332421/e886a5ee-bb0c-4bea-b03a-0b40942fba76)](https://github.com/ravineshk/smoker-detector/blob/main/Recording%202024-04-08%20000256.gif))
 
 
 Dataset Link: https://data.mendeley.com/datasets/7b52hhzs3r/1
